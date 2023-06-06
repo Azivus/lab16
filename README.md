@@ -1544,3 +1544,10 @@ lab15
     └──main.c
 ```
 ### **Скріншоти**
+
+![Program](https://github.com/Azivus/lab16/blob/main/Снимок%20экрана%20(4013).png)
+![Program](https://github.com/Azivus/lab16/blob/main/Снимок%20экрана%20(4014).png)
+![Program](https://github.com/Azivus/lab16/blob/main/Снимок%20экрана%20(4015).png)
+![Program](https://github.com/Azivus/lab16/blob/main/Снимок%20экрана%20(4017).png)
+![Program](https://github.com/Azivus/lab16/blob/main/Снимок%20экрана%20(4018).png)
+
